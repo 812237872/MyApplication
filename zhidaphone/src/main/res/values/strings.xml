@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZdPhone</string>
+
+
+    <string name="command_ip">10.2.210.216</string>
+    <string name="audio_ip">10.2.210.216</string>
+    <integer name="command_port">8001</integer>
+    <integer name="audio_port">8001</integer>
+</resources>
