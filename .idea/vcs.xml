@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="svn" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/recyle" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/service" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/socket" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/zhidaphone" vcs="svn" />
   </component>
 </project>

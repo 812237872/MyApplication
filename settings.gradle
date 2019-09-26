@@ -1,1 +1,1 @@
-include ':app', ':service', ':socket', ':zhidaphone'
+include ':app', ':service', ':socket', ':zhidaphone', ':recyle'
